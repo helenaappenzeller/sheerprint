@@ -13,7 +13,10 @@ body {
 
 .t{ font-family: 'lincoln', sans-serif;
     font-size: 8em;
-    color: green;
+    color: darkgray;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: white;
+    text-decoration-line: none;
 }
 h1 {
     font-family: 'lincoln', sans-serif;
