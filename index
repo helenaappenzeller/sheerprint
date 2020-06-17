@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+    <head>
+        <link rel="stylesheet" href="styles/main.css">
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,800i" rel="stylesheet"> 
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <a href="enter.html">0</a>
+        <img src="assets/gelb.png" class="gelb">
+        <img src="assets/translucent.png" class="translucent">
+        <img src="assets/terazzo.png" class="terazzo">
+        <img src="assets/handlight.gif" class="handlight">
+        <img src="assets/sheerhand.png" class="sheerhand">
+        <img src="assets/sheerprint.gif" class="sheerprint">
+        <img src="assets/window.png" class="window">
+        <img src= "assets/typo.gif" class="typo">
+        <img src="assets/otherside.png" class="otherside">
+        <img src="assets/sun.png" class="sun">
+        <img src="assets/Illumination.gif" class="illumination"> 
+        <img src="assets/typowax.png" class="typowax"> 
+      
+    </body>
+</html>
