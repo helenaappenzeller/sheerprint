@@ -1,0 +1,93 @@
+<!doctype html>
+<html>
+    <head>
+        <link rel="stylesheet" href="styles/main.css">
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,800i" rel="stylesheet"> 
+       
+    </head>
+    <body class="bodycolor">
+        <a href="index.html">0</a>
+        <h1>SHEER</h1>
+        <H1>PRINT</H1>
+        
+         <div class="row">
+            <div class="col-1">
+               <h2>What is going on?<br>sheer prints have a translucent quality, which is unique. Hold up against the light the print will be illuminated, on top of an other print it will be see trough. Its qualities open up new possibilities for graphic design. Classical structures like the two page unit in editorial design can be broken up and new layers can be added. If you still love print in our digital age, and believe there is more printing to explore than ever, start sheer printing!</h2>
+              </div>
+
+            <div class="col-2">
+               <h2>How does it work?<br>For sheer prints you basically print wax on paper. Here you will find a method how you can apply the wax quite easily in your desired shape. This technic will first create wax paper which is then cut in your desired shape of print and later transferred to your poster or editorial by ironing. The wax paper is necessary to create a thin layer of wax, which will result in more exact prints and makes the wax less fragile to work with.</h2>
+              </div>  
+        </div>
+        
+        <div class="row">
+             <div class="col2-1">
+                 <h3>0</h3>
+            </div>
+            <div class="col2-2">
+                <p><br>You need:<br><br>
+                wax (eg. paraffin)<br>
+                paper<br>
+                baking paper<br>
+                oven<br>
+                iron<br>
+                laser cutter <br>
+                or normal cutter
+                </p>
+            </div>
+             <div class="col2-3">
+                <img src="assets/illus-01.png" class="gridbild">
+            </div>
+        </div>
+        
+        <div class="row">
+             <div class="col2-1">
+                 <h3>1</h3>
+            </div>
+            <div class="col2-2">
+                <p><br>Making your own wax paper<br><br>
+                melt the paraffin in a big backing dish in the oven for 15min at 100°C. to protect you dish put a sheet of packing paper in it first <br><br>
+                when the wax is completely melted, take the dish out and dip paper in the melted wax. make sure it is covered completely. it will take ca. 30s to cool down and dry then it is safe to lay on any surface without sticking to it.
+                </p>  
+            </div>
+             <div class="col2-3">
+                <img src="assets/illus-03.png" class="gridbild">
+            </div>
+        </div>
+         
+         <div class="row">
+             <div class="col2-1">
+                 <h3>2</h3>
+            </div>
+            <div class="col2-2">
+                <p><br>Cutting wax paper to fit your design<br><br>
+                as the wax paper is so thin, it can easily be cut with a cutter or scissors. if you have a laser cutter you can use these settings: <br>100% speed <br> 50% power <br>
+                0.3 z Axis <br><br>
+                now you have your shapes for the wax printing. </p>   
+            </div>
+             <div class="col2-3">
+                <img src="assets/illus-04.png" class="gridbild">
+            </div>
+        </div>
+        
+         <div class="row">
+             <div class="col2-1">
+                 <h3>3</h3>
+            </div>
+            <div class="col2-2">
+                 <p><br>the actual printing: transfering the wax paper shapes to your poster/Editorial<br><br>
+                 Take a sheet of baking paper, then place your wax paper shapes, and then the page it should be printed on, on top of all of this you should put another baking paper, to protect your iron.<br><br> Iron all of it on the lowest heat setting. the wax print will appear while ironing, stop ironing whenever you want.<br><br>That is all! You did a sheer print!
+</p>    
+            </div>
+             <div class="col2-3">
+                <img src="assets/illus-05.png" class="gridbild">
+            </div>
+        </div>
+        
+<div>
+    <p class="footer">Helena Appenzeller WdKA 2019</p>
+        
+</div>
+       
+    </body>
+</html>
