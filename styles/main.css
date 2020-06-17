@@ -14,10 +14,11 @@ body {
 
 h1 {
     font-family: 'lincoln', sans-serif;
-    font-size: 8em;
+    font-size: 7em;
     color: darkgray;
     -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: white;
+    text-decoration-line: none;
 }
 h2 {
     font-family: 'lincoln', sans-serif;
